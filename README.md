@@ -7,11 +7,15 @@ This project performs face detection and classification on images of 7 different
 dataset/
 ├── images/
 │   ├── train/
-│   ├── val/
-│   └── test/
+│   │   ├── 01_0000.jpg
+│   │   ├── 01_0001.jpg
+│   └── val/
+|   └── test/
 ├── labels/
 │   ├── train/
-│   ├── val/
-│   └── test/
+│   │   ├── 01_0000.txt
+│   │   ├── 01_0001.txt
+│   └── val/
+|   └── test/
 └── data.yaml  ← defines class names and paths
 ```
