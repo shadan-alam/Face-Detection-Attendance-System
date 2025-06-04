@@ -1,0 +1,10 @@
+insightface
+opencv-python
+numpy
+scikit-learn
+matplotlib
+tensorflow
+onnxruntime
+ultralytics
+mysql-connector-python
+streamlit

@@ -1,0 +1,6 @@
+train: dataset/images/train
+val: dataset/images/valid
+test: dataset/images/test
+
+nc: 7
+names: ['person 1', 'person 2', 'person 3', 'person 4', 'person 5', 'person 6', 'person 7']
